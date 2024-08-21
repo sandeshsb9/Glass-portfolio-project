@@ -4,7 +4,7 @@
 
 Watch the demo of the Glass Portfolio Project by clicking on Image below:
 
-[![Watch the video](https://github.com/sandeshsb9/Glass-portfolio-project/blob/master/demo/img24.png)](https://vimeo.com/1001061815?share=copy)
+[![Watch the video](https://github.com/sandeshsb9/Glass-portfolio-project/blob/master/demo/demo.gif)]()
 
 
 
