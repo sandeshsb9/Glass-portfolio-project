@@ -4,7 +4,8 @@
 
 Watch the demo of the Glass Portfolio Project and click on  it to view full Image of project:
 
-[Look the Image](https://github.com/sandeshsb9/Glass-portfolio-project/blob/master/demo/img24.png)
+![Image](https://github.com/sandeshsb9/Glass-portfolio-project/raw/master/demo/img24.png)
+
 
 
 
