@@ -38,17 +38,6 @@ To get started with this project, follow these steps:
 - Clean and organized structure
 - Easy to customize
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
-
-1. **Fork the repository**
-2. **Create a new branch (`git checkout -b feature-branch`)**
-3. **Make your changes**
-4. **Commit your changes (`git commit -am 'Add new feature'`)**
-5. **Push to the branch (`git push origin feature-branch`)**
-6. **Create a new Pull Request**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
